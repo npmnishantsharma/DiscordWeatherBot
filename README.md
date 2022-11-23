@@ -10,5 +10,6 @@ replace TOKEN with your bot token
 
 and see the result>>
 
-https://user-images.githubusercontent.com/99231654/203107430-e8ac62b2-ffee-45a6-bbc0-c3894cf6394b.mp4
+![vidma_recorder_edited_21112022_215415](https://user-images.githubusercontent.com/99231654/203544450-816ca3fc-fc17-481a-8c9a-3f474d6bef8f.gif)
+
 
